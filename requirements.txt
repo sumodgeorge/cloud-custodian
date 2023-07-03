@@ -38,7 +38,7 @@ py==1.10.0; python_version >= "3.6" and python_full_version < "3.0.0" or python_
 pycodestyle==2.7.0; python_version >= "2.7" and python_full_version < "3.0.0" or python_full_version >= "3.5.0"
 pycparser==2.20; python_version >= "3.6" and python_full_version < "3.0.0" and sys_platform == "linux" or sys_platform == "linux" and python_version >= "3.6" and python_full_version >= "3.4.0"
 pyflakes==2.3.1; python_version >= "2.7" and python_full_version < "3.0.0" or python_full_version >= "3.5.0"
-pygments==2.10.0; python_version >= "3.6"
+pygments==2.15.0; python_version >= "3.6"
 pyparsing==2.4.7; python_version >= "3.6" and python_full_version < "3.0.0" or python_full_version >= "3.3.0" and python_version >= "3.6"
 pyrsistent==0.18.0; python_version >= "3.6"
 pytest-cov==2.12.1; (python_version >= "2.7" and python_full_version < "3.0.0") or (python_full_version >= "3.5.0")
