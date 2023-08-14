@@ -21,7 +21,7 @@ requests==2.31.0; python_version >= "3.5" and python_full_version < "3.0.0" or p
 snowballstemmer==2.1.0; python_version >= "3.5"
 sphinx-markdown-tables==0.0.12
 sphinx-rtd-theme==0.4.3
-sphinx==3.0.4; python_version >= "3.5"
+sphinx==3.3.0; python_version >= "3.5"
 sphinxcontrib-applehelp==1.0.2; python_version >= "3.5"
 sphinxcontrib-devhelp==1.0.2; python_version >= "3.5"
 sphinxcontrib-htmlhelp==2.0.0; python_version >= "3.6"
